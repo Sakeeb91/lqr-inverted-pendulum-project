@@ -1,7 +1,7 @@
 # Advanced Control Systems & Data Analysis: LQR Stabilization of an Inverted Pendulum
 
 <p align="center">
-  <img src="pendulum_animation.mp4" alt="Pendulum Animation" width="600">
+  <img src="pendulum_animation.gif" alt="Pendulum Animation" width="600">
 </p>
 
 ## 🚀 Project Highlights
