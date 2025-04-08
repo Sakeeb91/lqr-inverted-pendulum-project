@@ -1,18 +1,8 @@
 # Advanced Control Systems & Data Analysis: LQR Stabilization of an Inverted Pendulum
 
 <p align="center">
-  <a href="https://github.com/Sakeeb91/lqr-inverted-pendulum-project/raw/master/pendulum_animation.mp4">
-    <img src="controlled_state_trajectories.png" alt="Pendulum Animation (Click to view)" width="600">
-    <br>
-    <em>👆 Click image above to view pendulum animation</em>
-  </a>
+  <img src="pendulum_animation.mp4" alt="Pendulum Animation" width="600">
 </p>
-
-  <a href="https://github.com/Sakeeb91/lqr-inverted-pendulum-project/raw/master/pendulum_animation.mp4">
-    <img src="controlled_state_trajectories.png" alt="Pendulum Animation (Click to view)" width="600">
-    <br>
-    <em>👆 Click image above to view pendulum animation</em>
-  </a>
 
 ## 🚀 Project Highlights
 
@@ -156,6 +146,7 @@ The analysis shows dramatic improvements in model accuracy when incorporating fr
   <img src="synthetic_data_comparison.png" alt="Data Analysis Results" width="800">
   <br>
   <em>Model validation against synthetic data with friction</em>
+</p>
 
 ## 🔧 Running the Project
 
@@ -229,3 +220,9 @@ This project was inspired by:
 
 - **Dimitri Bertsekas** - *Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control* (2023)
   This groundbreaking work explores connections between reinforcement learning algorithms like AlphaZero and traditional optimal control methods, providing insights that informed our approach to controller design and system identification.
+
+---
+
+<p align="center">
+  <em>Created by [Your Name] - A demonstration of advanced control theory and data analysis techniques</em>
+</p> 
