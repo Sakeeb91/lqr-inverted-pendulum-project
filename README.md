@@ -8,6 +8,12 @@
   </a>
 </p>
 
+  <a href="https://github.com/Sakeeb91/lqr-inverted-pendulum-project/raw/master/pendulum_animation.mp4">
+    <img src="controlled_state_trajectories.png" alt="Pendulum Animation (Click to view)" width="600">
+    <br>
+    <em>👆 Click image above to view pendulum animation</em>
+  </a>
+
 ## 🚀 Project Highlights
 
 This project demonstrates advanced control theory, mathematical modeling, data analysis, and machine learning techniques through the classic inverted pendulum problem. It showcases:
@@ -150,7 +156,6 @@ The analysis shows dramatic improvements in model accuracy when incorporating fr
   <img src="synthetic_data_comparison.png" alt="Data Analysis Results" width="800">
   <br>
   <em>Model validation against synthetic data with friction</em>
-</p>
 
 ## 🔧 Running the Project
 
