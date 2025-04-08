@@ -26,7 +26,7 @@ This project demonstrates advanced control theory, mathematical modeling, data a
     <td align="center"><b>Phase Portrait Analysis</b></td>
   </tr>
   <tr>
-    <td><img src="model_performance_comparison.png" alt="Model Performance Comparison" width="400"></td>
+    <td><img src="model_performance_comparison.png?v=1" alt="Model Performance Comparison" width="400"></td>
     <td><img src="robustness_angle.png" alt="Robustness Analysis" width="400"></td>
   </tr>
   <tr>
